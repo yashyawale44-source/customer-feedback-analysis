@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy
+matplotlib
+jupyter
+ipykernel
+python-dotenv
+# Gen AI providers (install the one(s) you use)
+google-genai        # Google Gemini
+openai              # OpenAI
+transformers        # HuggingFace local model (no API key needed)
+accelerate
+torch
